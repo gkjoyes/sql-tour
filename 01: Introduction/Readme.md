@@ -71,3 +71,7 @@
   - There are good free options.
 
   - Your school, employer, or hosting company may offer access to a DBMS.
+
+## Working Schema
+
+![schema](https://github.com/george-kj/sql-tour/blob/master/schema.png)
