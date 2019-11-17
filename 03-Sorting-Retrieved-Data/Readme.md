@@ -10,6 +10,8 @@
 
   - Optionally, you may also specify multiple sort columns as well as sort direction.
 
+## Syntax
+
 ```sql
     SELECT column
     FROM table

@@ -10,6 +10,8 @@
 
   - Where to SELECT it from.
 
+## Syntax
+
 ```sql
     SELECT column FROM table;
 ```
